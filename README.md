@@ -1,8 +1,5 @@
 # DevOpsLabFSAI-B1H
 
-[Jaanhvi](./500101756/)
-[Panshul](./500105400/)
-
 
 
 |No|Experiment|
